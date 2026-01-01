@@ -1,16 +1,18 @@
 
+## Software engineering student | 42 Student
+
 ![librahim's 42 stats](https://badge.mediaplus.ma/darkblue/librahim)
-<!--
-**Ibrahim-lax/Ibrahim-lax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+My name's Ibrahim and my background is built on the rigorous 42 common core curriculum, which is centered around C and C++. Through this, I developed a strong understanding of low-level memory management, data structures, and fundamental algorithms.
+
+
+Additionally I've been previously in an electronic/electric engineering school where I studied theoritical concepts about robotic/automation systems, this provided me with a unique perspective on the bridge between hardware and software.
+
+
+Currently, I am in the final phase of the 42 Common Core, focusing on my final project ft_transcendence that relies on the recent modern web developement stacks.
+
+
+Moving forward, Im continuing expanding my theoretical and practical knowledge by learning new stacks, including Web Development, AI, Devops as I continue my journey at 42.
