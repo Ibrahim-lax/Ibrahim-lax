@@ -6,7 +6,7 @@
 
 ## About me
 
-My name's Ibrahim and my background is built on the rigorous 42 common core curriculum, which is centered around C and C++. Through this, I developed a strong understanding of low-level memory management, data structures, and fundamental algorithms.
+My background is built on the rigorous 42 common core curriculum, which is centered around C and C++. Through this, I developed a strong understanding of low-level memory management, data structures, and fundamental algorithms.
 
 
 Additionally I've been previously in an electronic/electric engineering school where I studied theoritical concepts about robotic/automation systems, this provided me with a unique perspective on the bridge between hardware and software.
