@@ -1,5 +1,5 @@
 
-## Software engineering student | 42 Student
+## IT student | 42 Student
 
 ![librahim's 42 stats](https://badge.mediaplus.ma/darkblue/librahim)
 
