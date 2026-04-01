@@ -11,8 +11,4 @@ My background is built on the rigorous 42 common core curriculum, which is cente
 
 Additionally I've been previously in an electronic/electric engineering school where I studied theoritical concepts about robotic/automation systems, this provided me with a unique perspective on the bridge between hardware and software.
 
-
-Currently, I am in the final phase of the 42 Common Core, focusing on my final project ft_transcendence that relies on the recent modern web developement stacks.
-
-
-Moving forward, Im continuing expanding my theoretical and practical knowledge by learning new stacks, including Web Development, AI, Devops as I continue my journey at 42.
+After finishing 42 common core, I am continuing expanding my theoretical and practical knowledge by learning new stacks, including Web Development, AI, Devops as I continue my journey at 42.
